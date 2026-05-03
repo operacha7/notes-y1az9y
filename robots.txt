@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://operacha7.github.io/notes-y1az9y/sitemap.xml
